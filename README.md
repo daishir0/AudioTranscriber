@@ -63,5 +63,3 @@ python main.py <input_audio_file> <output_txt_file>
 
 ### ライセンス
 MITライセンス
-
----
