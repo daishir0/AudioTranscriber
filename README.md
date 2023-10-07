@@ -6,11 +6,11 @@ AudioTranscriber is a tool that helps you convert large audio files into text us
 ### Installation
 1. Clone the repository:
 ```
-git clone <repository_url>
+git clone https://github.com/daishir0/AudioTranscriber
 ```
 2. Navigate to the repository folder:
 ```
-cd <repository_folder>
+cd AudioTranscriber
 ```
 3. Install the required packages:
 ```
@@ -40,11 +40,11 @@ AudioTranscriberは、OpenAIのWhisper APIを使用して大きなオーディ�
 ### インストール方法
 1. リポジトリをクローンします:
 ```
-git clone <repository_url>
+git clone https://github.com/daishir0/AudioTranscriber
 ```
 2. リポジトリのフォルダに移動します:
 ```
-cd <repository_folder>
+cd AudioTranscriber
 ```
 3. 必要なパッケージをインストールします:
 ```
